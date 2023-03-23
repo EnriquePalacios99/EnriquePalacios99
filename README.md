@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrique Palacios</h1>
 <h3 align="center">A passionate data analyst</h3>
 
-- 🔭 I’m currently working on **Infox as a research**
+- 🔭 I’m currently working on **Pacifico Seguros as a data scientist**
 
 - 🌱 I’m currently learning **Machine Learning and Data Processing with Python**
 
