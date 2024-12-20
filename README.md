@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enrique Palacios</h1>
 <h3 align="center">A passionate Data Scientist Analyst</h3>
 
-- 🔭 I’m currently working on **Pacifico Seguros as a data scientist**
+- 🔭 I’m currently working on **Pacifico Seguros as a Data Analyst**
 
-- 🌱 I’m currently learning **Machine Learning and Data Processing with Python**
+- 🌱 I am enrolled in two distinct master's programs: **Data Science and Artificial Intelligence** at **UTEC** and **Mathematical Statistics** at **UNMSM**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
